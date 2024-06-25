@@ -70,6 +70,8 @@ Advanced knowledge of:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![alt text](https://github.com/maryRom01/Maryna_Romanets/blob/main/Generative_AI.png)
+
 Languages: 
 
 <ul>
