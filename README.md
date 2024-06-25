@@ -72,7 +72,10 @@ Advanced knowledge of:
 
 ![alt text](https://github.com/maryRom01/Maryna_Romanets/blob/main/Generative_AI.png)
 
-Languages: 
+
+![alt text](https://github.com/maryRom01/Maryna_Romanets/blob/main/LLM.png)
+
+<strong>Languages:</strong> 
 
 <ul>
  <li>English</li>
