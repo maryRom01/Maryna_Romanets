@@ -75,6 +75,9 @@ Advanced knowledge of:
 
 ![alt text](https://github.com/maryRom01/Maryna_Romanets/blob/main/LLM.png)
 
+![alt text](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)    
+[My collection](https://codepen.io/maryRom01/collections/)
+
 <strong>Languages:</strong> 
 
 <ul>
